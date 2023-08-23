@@ -2,7 +2,7 @@
 import mongoose from "mongoose";
 
 mongoose.connect(
-    "mongodb+srv://dayanecarla72:dayane123@cluster0.40ywxoe.mongodb.net/app"
+    "mongodb+srv://admin:dayane123@cluster0.v2ky7en.mongodb.net/api2"
 );
 
 let db = mongoose.connection;
